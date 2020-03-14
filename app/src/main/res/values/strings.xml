@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Point of sale</string>
+
+    <array name="areas">
+
+        <item>Nawabshah</item>
+        <item>Sakrand</item>
+
+    </array>
+    <array name="shop">
+
+        <item>Aijaz</item>
+        <item>Hamid</item>
+
+    </array>
+    <array name="products">
+
+        <item>Chocolate</item>
+        <item>Coldrink</item>
+
+    </array>
+</resources>
